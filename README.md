@@ -42,4 +42,4 @@ THEN I find a concise, descriptive title
 
 Final result of webpage:
 
-![Final result of webpage](./Assets/images/Week01-Refactor-Screenshot.png)
+![Final result of webpage](./assets/images/Week01-Refactor-Screenshot.png)
